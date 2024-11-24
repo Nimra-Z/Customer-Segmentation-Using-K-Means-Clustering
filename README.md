@@ -2,7 +2,6 @@
 
 Customer Segmentation is a machine learning project designed to group customers into distinct segments based on their attributes such as demographics, spending behavior, and preferences. This project uses clustering algorithms like **KMeans** to identify customer groups and provides an interactive **Streamlit** web application for visualization and exploration.
 
----
 
 ## **Features**
 1. **Dynamic Dataset Handling**:
@@ -28,7 +27,6 @@ Customer Segmentation is a machine learning project designed to group customers 
 - **Pandas**: Data manipulation and analysis.
 - **Matplotlib**: Visualization library.
 
----
 
 ## **Directory Structure**
 
@@ -48,7 +46,6 @@ Customer_Segmentation/
 └── README.md                  # Documentation
 ```
 
----
 
 ## **Setup Instructions**
 
