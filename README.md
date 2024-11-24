@@ -54,8 +54,8 @@ Customer_Segmentation/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/Customer-Segmentation.git
-cd Customer-Segmentation
+git clone https://github.com/Nimra-Z/Customer-Segmentation-Using-K-Means-Clustering.git
+cd Customer-Segmentation-Using-K-Means-Clustering
 ```
 
 ### **2. Install Dependencies**
